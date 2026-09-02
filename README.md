@@ -1,15 +1,12 @@
-[README.md](https://github.com/user-attachments/files/29900752/README.md)
 <div align="center">
 
-<img src="./assets/summer-loop-banner.png" width="100%" alt="Summer Loop Banner" />
+<img src="./assets/jojo-ai-banner.png" width="100%" alt="AI Engineer Banner" />
 
-# 🌊 Summer Loop · AI Engineer
+# AI Engineer
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&width=760&lines=AI+Engineer+in+Progress;RAG+%C2%B7+LLM+%C2%B7+Agent+%C2%B7+NLP;Observe+%C2%B7+Analyze+%C2%B7+Build+%C2%B7+Iterate;Every+commit+is+another+loop" alt="Typing SVG" />
+`Agent` · `RAG` · `LLM` · `NLP` · `Python Backend`
 
-**专注于大模型应用、RAG、Agent 与 Python AI 后端**
-
-`Shanghai, China` · `Python` · `FastAPI` · `Milvus` · `Redis`
+`Shanghai, China`
 
 </div>
 
@@ -17,198 +14,179 @@
 
 ## 👋 关于我
 
-```python
-class Yang:
-    role = "AI Engineer in Progress"
-
-    focus = [
-        "Large Language Models",
-        "Retrieval-Augmented Generation",
-        "AI Agents",
-        "Natural Language Processing",
-        "Python Backend",
-    ]
-
-    current_stack = [
-        "Python", "PyTorch", "Transformers",
-        "FastAPI", "Docker",
-        "Milvus", "Redis", "MySQL",
-    ]
-
-    motto = "Observe → Analyze → Build → Iterate"
-```
-
-- 🎓 计算机专业，持续补强计算机基础与 AI 工程能力
-- 🤖 当前重点学习：RAG、Agent、LLM 应用开发、NLP 与 AI 后端
-- 🧠 喜欢从检索、评测、缓存、会话管理和工程部署角度理解完整系统
-- 🌊 主页主题灵感来自《夏日重现》：观察、推理、修正，再进入下一次循环
+- 🎓 计算机相关专业，持续补强计算机基础与 AI 工程能力
+- 🤖 当前重点方向：Agent、RAG、LLM 应用开发、NLP 与 AI 后端
 
 ---
 
 ## 🧭 当前技术方向
 
-| 方向 | 正在学习与实践的内容 |
+| 方向 | 学习与实践内容 |
 |---|---|
-| RAG | 文档解析、父子块切分、BM25、Dense/Sparse 混合检索、Reranker |
-| LLM 应用 | Prompt 编排、多轮会话、Session、缓存、拒答与引用溯源 |
-| Agent | Tool Calling、工作流、Memory、MCP、任务规划 |
-| NLP | 中文 NER、MacBERT、Token Classification、模型评估 |
-| AI 后端 | FastAPI、异步并发、Redis、MySQL、Milvus、Docker |
+| 🤖 Agent | LangGraph、Tool Calling、MCP、Memory、多 Agent、Workflow、任务规划 |
+| 🔎 RAG | 文档解析、父子切分、BM25、Dense / Sparse Hybrid Search、Reranker、RAG Evaluation |
+| 💬 LLM 应用 | Prompt、结构化输出、多轮会话、Session、缓存、引用溯源、拒答 |
+| 🧠 NLP | Transformer、BERT、MacBERT、NER、Token Classification、模型评估 |
+| ⚙️ AI 后端 | FastAPI、Pydantic、Redis、MySQL、Milvus、OpenSearch、Docker |
 
 ---
 
 ## 🛠️ 技术栈
 
+### Agent / LLM
+
+<p>
+  <img src="https://img.shields.io/badge/LangGraph-1C1C1C?style=flat-square" />
+  <img src="https://img.shields.io/badge/MCP-6F42C1?style=flat-square" />
+  <img src="https://img.shields.io/badge/Agent-7048E8?style=flat-square" />
+  <img src="https://img.shields.io/badge/LLM-4C6EF5?style=flat-square" />
+  <img src="https://img.shields.io/badge/RAG-0B7285?style=flat-square" />
+</p>
+
+### Retrieval / RAG
+
+<p>
+  <img src="https://img.shields.io/badge/Milvus-00A1EA?style=flat-square" />
+  <img src="https://img.shields.io/badge/OpenSearch-005EB8?style=flat-square" />
+  <img src="https://img.shields.io/badge/BM25-495057?style=flat-square" />
+  <img src="https://img.shields.io/badge/BGE--M3-364FC7?style=flat-square" />
+  <img src="https://img.shields.io/badge/BGE--Reranker-5F3DC4?style=flat-square" />
+</p>
+
 ### AI / NLP
 
 <p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
-  <img src="https://img.shields.io/badge/Transformers-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
-  <img src="https://img.shields.io/badge/RAG-0B7285?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/LLM-4C6EF5?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Agent-7048E8?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" />
+  <img src="https://img.shields.io/badge/Transformers-FFD21E?style=flat-square&logo=huggingface&logoColor=black" />
+  <img src="https://img.shields.io/badge/MacBERT-7950F2?style=flat-square" />
 </p>
 
 ### Backend / Data
 
 <p>
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
-  <img src="https://img.shields.io/badge/Milvus-00A1EA?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pydantic-E92063?style=flat-square" />
 </p>
 
 ### Engineering
 
 <p>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/PyCharm-000000?style=flat-square&logo=pycharm&logoColor=white" />
 </p>
 
 ---
 
 ## 🚀 项目与实践
 
-### 🏢 EduRAG · 企业知识问答系统
+### 🏦 聚源洞见 · 多 Agent 智能投研系统
 
-> 面向企业内部知识库问答场景的 FAQ + RAG 双层检索方案。
+> 面向证券、基金与财富管理场景的多 Agent 投研系统，结合结构化金融数据、知识检索、任务规划与合规控制。
 
-**涉及内容：**
+**主要工作：**
 
-- Redis 热点问答缓存与 TTL
-- BM25 FAQ 相似问题检索
-- BGE-M3 Dense / Sparse 表示
-- Milvus Hybrid Search
-- Parent Retrieval 父子块检索
-- CrossEncoder Reranker
-- Session 多轮会话管理
-- badcase 收集与离线评估
+- 基于 `LangGraph` 设计 Orchestrator 编排层，实现简单 Workflow 与复杂任务动态规划
+- 设计 Data Agent、Portfolio Agent、Compliance Agent 等核心 Agent
+- Data Agent 通过 MCP、AIDB 与内部接口获取结构化金融数据
+- 支持结构化查询、非结构化检索、组合诊断、报表生成等任务
+- 使用 State + Checkpointer 实现任务状态管理与断点续跑
+- 设计短期记忆与长期偏好记忆机制
+- 建立 L0 / L1 / L2 / L3 合规分级、权限控制与人工审核流程
+- 支持异常重试、超时降级、多用户任务隔离与审计日志
 
----
+**Tech Stack**
 
-### 📚 企业研发知识库智能助手
-
-> 面向 PDF、Word、Excel 等企业文档的数据解析与知识检索方案。
-
-**涉及内容：**
-
-- `pdfplumber`、PaddleOCR、PP-Structure
-- Excel 多 Sheet 独立解析
-- Metadata、页码、Parent ID、Chunk ID
-- 结构感知切分与文档溯源
-- 混合检索、去重与上下文恢复
+`Python` `FastAPI` `Pydantic` `LangGraph` `MCP` `Redis` `MySQL` `Milvus` `OpenSearch` `Docker`
 
 ---
 
-### 🏦 中文金融评论 NER
+### 📊 WarrenQ · 财报 / 公告智能问答系统
 
-> 基于 MacBERT 的中文金融评论命名实体识别实践。
+> 面向证券研究员、投顾与金融分析场景的 RAG 智能问答系统，支持财报、公告等复杂金融文档检索。
 
-**实体类型：**
+**主要工作：**
 
-- BANK
-- PRODUCT
-- COMMENTS_N
-- COMMENTS_ADJ
+- 使用 `pdfplumber` 解析 PDF 文本层，异常文档回退 PaddleOCR / PP-Structure
+- 基于标题层级与文档结构进行 Parent-Child Chunking
+- 使用 BGE-M3 构建 Dense / Sparse 向量表示
+- Milvus 负责向量检索，OpenSearch BM25 负责关键词检索
+- 使用 RRF 融合多路召回结果
+- 使用 BGE-Reranker 进行精排
+- 支持 Query Rewrite、HyDE、子查询拆分等检索策略
+- 金融指标通过 MySQL / 内部结构化数据库直接查询
+- 使用 Redis 缓存热点 Query 与检索结果
+- 建立 Recall@K、MRR、NDCG、RAGAS、Citation 等评测体系
 
-**技术：**
+**Tech Stack**
 
-- PyTorch
-- Transformers
-- Token Classification
-- Precision / Recall / F1
+`Python` `FastAPI` `Milvus` `OpenSearch` `Redis` `MySQL` `BGE-M3` `BGE-Reranker` `PaddleOCR` `Docker`
+
+---
+
+### 🧠 中文金融细粒度命名实体识别
+
+> 面向银行借贷与金融评论文本的细粒度 NER 系统。
+
+**主要工作：**
+
+- 构建字符级 BIO 标注体系
+- 设计 Token 与原始字符标签对齐算法
+- 以 `bert-base-chinese` 构建基线模型
+- 引入 `MacBERT` 作为最终编码器
+- 使用 PyTorch + Transformers 完成 Token Classification
+- 使用 AdamW 进行模型训练
+- 使用 Precision / Recall / F1 评估实体识别效果
+- 使用 seqeval 进行序列标注评测
+- 尝试知识蒸馏与模型压缩优化
+
+**实体类型**
+
+`BANK` `PRODUCT` `COMMENTS_N` `COMMENTS_ADJ`
+
+**Tech Stack**
+
+`Python` `PyTorch` `Transformers` `MacBERT` `seqeval`
 
 ---
 
 ## 📖 正在学习
 
 ```text
-RAG Evaluation
+Agent
+├── LangGraph
+├── Multi-Agent
+├── Tool Calling
+├── MCP
+├── Memory
+├── Workflow
+└── Agent Evaluation
+
+RAG
+├── Hybrid Retrieval
+├── Parent-Child Retrieval
+├── Reranker
 ├── Recall@K
-├── Top-1 Accuracy
-├── NDCG@K
-├── Badcase Analysis
-└── Offline Regression
+├── MRR
+├── NDCG
+└── Badcase Analysis
+
+LLM Engineering
+├── Prompt Engineering
+├── Structured Output
+├── Context Engineering
+├── Session Management
+└── LLM Evaluation
 
 AI Backend
 ├── FastAPI
 ├── async / await
-├── Session Management
-├── Redis Cache
-└── Docker Deployment
-
-Agent
-├── Tool Calling
-├── Memory
-├── MCP
-└── Workflow
-```
-
----
-
-## 📊 GitHub 数据
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=shengxing-y&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" />
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shengxing-y&layout=compact&theme=github_dark&hide_border=true" />
-
-</div>
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=shengxing-y&theme=github-compact&hide_border=true&area=true" width="96%" />
-
-</div>
-
----
-
-## 🌊 Summer Loop
-
-```text
-Observe
-   ↓
-Analyze
-   ↓
-Build
-   ↓
-Test
-   ↓
-Fail
-   ↓
-Learn
-   ↓
-Iterate
-```
-
-<div align="center">
-
-### Every commit is another loop toward a better engineer.
-
-<img src="https://komarev.com/ghpvc/?username=shengxing-y&label=Profile%20Views&color=58A6FF&style=flat" alt="Profile views" />
-
-</div>
+├── Redis
+├── MySQL
+├── Milvus
+├── Docker
+└── Deployment
