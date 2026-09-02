@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/jojo-ai-banner.png" width="100%" alt="AI Engineer Banner" />
+<img src="./jojo-ai-banner.png" width="100%" alt="AI Engineer Banner" />
 
 # AI Engineer
 
